@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá! Prazer meu nome é Gabriel!👋🏼
 
-<!--
-**Gabboss17/Gabboss17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Técnico** de informática pelo IFRN;
+- Aspirante a **Medicina**🩺 e **Bioquímica**🔬;
+- Amante de **Astronomia**🔭;
 
-Here are some ideas to get you started:
+#### Atualmente focado em:
+<div display=inline>
+  <img  height='50' width='50' src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" />
+  <img  height='50' width='50' src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" />
+  <img  height='50' width='50' src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Você me encontra em:
+<a href="https://www.instagram.com/gabrazc/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?" />
+</a>
